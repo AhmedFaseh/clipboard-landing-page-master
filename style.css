@@ -196,6 +196,8 @@ footer{
     text-decoration: none;
     margin: 10px 40px;
 
+}.frf a:hover{
+    color: #27bba5;
 }
 footer div{
     justify-content: space-between;
