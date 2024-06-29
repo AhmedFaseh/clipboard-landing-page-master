@@ -39,6 +39,8 @@ p , h1 , h2 , h3{
 }
 h1 , h2 , h3{
 color: rgb(66 75 82);
+}h2{
+    margin: 40px 0 !important;
 }
 .bag-con{
     display: grid;
